@@ -1,3 +1,4 @@
-Class Checkout{
-main
+
+
+public static void main(
 }
