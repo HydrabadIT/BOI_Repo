@@ -1,3 +1,3 @@
 Class Checkout{
-psvm()
+public static void main()
 }
