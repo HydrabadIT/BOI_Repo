@@ -1,7 +1,4 @@
-Class Checkout{
 
-public static void main()
-=======
-main();
 
+public static void main(
 }
